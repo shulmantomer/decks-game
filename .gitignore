@@ -1,0 +1,27 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled executables
+Decks_game
+*.exe
+*.out
+
+# Build directories
+build/
+bin/
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Debug files
+*.dSYM/
+*.stackdump
